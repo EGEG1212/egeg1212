@@ -18,6 +18,7 @@ REFERENCE <https://github.com/anuraghazra/github-readme-stats/blob/master/docs/r
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi there 👋&fontAlign=80&fontAlignY=40&color=gradient)
 
 
 ![egeg1212 GitHub stats](https://github-readme-stats.vercel.app/api?username=egeg1212&show_icons=true)

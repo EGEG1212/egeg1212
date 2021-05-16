@@ -22,8 +22,6 @@ REFERENCE <https://github.com/anuraghazra/github-readme-stats/blob/master/docs/r
 
 ![egeg1212 GitHub stats](https://github-readme-stats.vercel.app/api?username=egeg1212&show_icons=true)
 
-![egeg1212 GitHub stats](https://github-readme-stats.vercel.app/api?username=egeg1212&show_icons=true&theme=radical)
-
 ![egeg1212 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=egeg1212&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 

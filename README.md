@@ -26,7 +26,6 @@ REFERENCE <https://github.com/anuraghazra/github-readme-stats/blob/master/docs/r
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egeg1212&bg_color=30,dd6efb,0cbbff&title_color=fff&text_color=fff)](https://github.com/egeg1212/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=egeg1212)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

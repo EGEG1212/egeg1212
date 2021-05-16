@@ -21,15 +21,13 @@ REFERENCE <https://github.com/anuraghazra/github-readme-stats/blob/master/docs/r
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!&fontAlign=80&fontAlignY=40&color=gradient)
 
 
-![egeg1212 GitHub stats](https://github-readme-stats.vercel.app/api?username=egeg1212&show_icons=true)
-
 ![egeg1212 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=egeg1212&show_icons=true&bg_color=30,dd6efb,0cbbff&title_color=fff&text_color=fff)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egeg1212&bg_color=30,dd6efb,0cbbff&title_color=fff&text_color=fff)](https://github.com/egeg1212/github-readme-stats)
 
 [![egeg1212 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=egeg1212
-)](https://github.com/anuraghazra/github-readme-stats)
+)](https://github.com/egeg1212/github-readme-stats)
 
 
 

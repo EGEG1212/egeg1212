@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+REFERENCE <https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md>
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egeg1212&show_icons=true)
@@ -23,7 +25,12 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egeg1212)](https://github.com/egeg1212/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/egeg1212/github-readme-stats)
+[![egeg1212 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/egeg1212/github-readme-stats)
+
+[![egeg1212 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=egeg1212&layout=compact)](https://github.com/egeg1212/github-readme-stats)
+
+#그라데이션
+![egeg1212 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=egeg1212&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
 

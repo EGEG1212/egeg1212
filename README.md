@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 REFERENCE <https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md>
 -->
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
+
+
 ![egeg1212 GitHub stats](https://github-readme-stats.vercel.app/api?username=egeg1212&show_icons=true)
 
 ![egeg1212 GitHub stats](https://github-readme-stats.vercel.app/api?username=egeg1212&show_icons=true&theme=radical)

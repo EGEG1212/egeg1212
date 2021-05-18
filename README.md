@@ -32,8 +32,6 @@ REFERENCE <https://github.com/anuraghazra/github-readme-stats/blob/master/docs/r
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=539bf5&height=50&section=footer&fontSize=90)
-
 
 
 

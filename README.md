@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **EGEG1212/egeg1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,9 +16,12 @@ REFERENCE <https://github.com/anuraghazra/github-readme-stats/blob/master/docs/r
 -->
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90) -->
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text="A slice of sunshine."&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!&fontAlign=80&fontAlignY=40&color=gradient)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:egeg1212@gmail.com)](mailto:egeg1212@gmail.com)
+- 🌱 I'm learning to make a voice-related program that I want. 
+- I will be a farmer who plants git grass hard too!🤩
+
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:egeg1212@gmail.com)](mailto:egeg1212@gmail.com)
 
 <!-- [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://blog.naver.com/***)](https://blog.naver.com/***) -->
 
@@ -35,7 +36,7 @@ REFERENCE <https://github.com/anuraghazra/github-readme-stats/blob/master/docs/r
 
 
 
-
+![footer](https://capsule-render.vercel.app/api?type=wave&color=539bf5&height=200&section=footer&fontSize=90)
 
 
 

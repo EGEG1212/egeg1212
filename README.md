@@ -20,7 +20,7 @@ REFERENCE <https://github.com/anuraghazra/github-readme-stats/blob/master/docs/r
 
 - 🌱 I'm learning to make a voice-related program that I want. 
 - 🌱I will be a farmer who plants git grass hard too!🤩
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:egeg1212@gmail.com)](mailto:egeg1212@gmail.com)
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eg1212j@gmail.com)](mailto:eg1212j@gmail.com)
 
 <!-- [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://blog.naver.com/***)](https://blog.naver.com/***) -->
 

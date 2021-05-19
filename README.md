@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 REFERENCE <https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md>
+
+https://blog.naver.com/yb2316/222260350184
+https://github.com/YebinKim
+https://gist.github.com/EGEG1212/d72968098f4ab556cd756f1d30db2f5f
+[![Facebook Badge](https://img.shields.io/badge/-{타이틀(string)}-{배경 색상(hex)}?logo={해당 서비스명}&logoColor={로고 색상(hex)}&link={페이스북 주소(url)})]({페이스북 주소(url)})
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?logo=facebook&logoColor=white&link={페이스북 주소(url)})]({페이스북 주소(url)})
+[출처] 깃헙 메인 프로필 꾸미기 (뱃지 설정, 컴포넌트 추가)|작성자 무마니 vivi
+
 -->
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90) -->

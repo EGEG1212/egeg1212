@@ -30,8 +30,7 @@ https://gist.github.com/EGEG1212/d72968098f4ab556cd756f1d30db2f5f
 - 🌱I will be a farmer who plants git grass hard too!🤩
 - 📫 contact me by [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eg1212j@gmail.com)](mailto:eg1212j@gmail.com)
 
-🧀🍟🍨Keywords of interest🍰
-Big Data(빅데이터) / Machine Learning(머신러닝) / Voice recognitio(음성인식) / Speech Synthesis(음성합성) / Algorithm(알고리즘) / AI(artificial intelligence) / FinTech(핀테크) / Block Chain(블록체인) / hash sha /encoding(암호화) / bitcoin(비트코인) / Cryptocurrency(암호화폐)
+🍰Keywords of interest🍟<br>Big Data(빅데이터) / Machine Learning(머신러닝) / Voice recognitio(음성인식) / Speech Synthesis(음성합성) / Algorithm(알고리즘) / AI(artificial intelligence) / FinTech(핀테크) / Block Chain(블록체인) / hash sha /encoding(암호화) / bitcoin(비트코인) / Cryptocurrency(암호화폐)
 
 
 <!-- [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://blog.naver.com/***)](https://blog.naver.com/***) -->

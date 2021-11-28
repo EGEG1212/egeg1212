@@ -45,12 +45,8 @@ https://gist.github.com/EGEG1212/d72968098f4ab556cd756f1d30db2f5f
 <img src="https://img.shields.io/badge/Express-FF7200?style=flat-square&logo=Express&logoColor=white"/>
 <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Sklearn-150458?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=NumPy&logoColor=white"/><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Matplotlib-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Sklearn-150458?style=flat-square&logo=scikit-learn&logoColor=white"/><img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp;  
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp;
@@ -60,7 +56,7 @@ https://gist.github.com/EGEG1212/d72968098f4ab556cd756f1d30db2f5f
 | **Date** | **Contents** | **Organization** |
 | ------ | :------: | :------: |
 | 🎓2020.08 ~ 2021.02 | Web development/Data Science Coding bootcamp | Seoul HOSEO Technical College |
-| 🎓2021.02 ~ 2021.12 | SKT-AI Coding bootcamp | SKTelecom & JEJU Institute for Lifelong Education and Scholarship |
+| 🎓2021.02 ~ 2021.12 | SKT-AI NUGU Coding bootcamp | SKTelecom & JEJU Institute for Lifelong Education and Scholarship |
 
 
 ![egeg1212 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=egeg1212&show_icons=true&bg_color=30,dd6efb,539bf5&title_color=fff&text_color=fff)

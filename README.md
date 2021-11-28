@@ -35,17 +35,8 @@ https://gist.github.com/EGEG1212/d72968098f4ab556cd756f1d30db2f5f
 
 <!-- [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://blog.naver.com/***)](https://blog.naver.com/***) -->
 
-<img src="https://img.shields.io/badge/Python-dd6efb?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-539bf5?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-dd6efb?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-539bf5?style=flat-square&logo=Git&logoColor=white"/>
-##원태쓰
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-FF7200?style=flat-square&logo=Express&logoColor=white"/>
-<img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=NumPy&logoColor=white"/><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Matplotlib-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Python-dd6efb?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/HTML-539bf5?style=flat-square&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-dd6efb?style=flat-square&logo=CSS3&logoColor=white"/><img src="https://img.shields.io/badge/Git-539bf5?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/><img src="https://img.shields.io/badge/Express-FF7200?style=flat-square&logo=Express&logoColor=white"/><img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=NumPy&logoColor=white"/><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Matplotlib-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Sklearn-150458?style=flat-square&logo=scikit-learn&logoColor=white"/><img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp;  
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>&nbsp;

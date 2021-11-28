@@ -41,10 +41,6 @@ https://gist.github.com/EGEG1212/d72968098f4ab556cd756f1d30db2f5f
 <img src="https://img.shields.io/badge/Git-539bf5?style=flat-square&logo=Git&logoColor=white"/>
 ##원태쓰
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/QL-E434AA?style=flat-square&logo=GraphQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/Framer-df0eb1?style=flat-square&logo=Framer&logoColor=white"/>
-<img src='https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=Styled-Components&logoColor=white'/> 
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-FF7200?style=flat-square&logo=Express&logoColor=white"/>
 <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/>

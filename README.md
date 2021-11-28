@@ -43,8 +43,8 @@ https://gist.github.com/EGEG1212/d72968098f4ab556cd756f1d30db2f5f
 
 
 
-#Pink - dd6efb
-#blue - 539bf5
+<!-- Pink - dd6efb
+blue - 539bf5 -->
 
 
 

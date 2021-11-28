@@ -35,7 +35,44 @@ https://gist.github.com/EGEG1212/d72968098f4ab556cd756f1d30db2f5f
 
 <!-- [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://blog.naver.com/***)](https://blog.naver.com/***) -->
 
-<img src="https://img.shields.io/badge/Python-dd6efb?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/HTML-539bf5?style=flat-square&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-dd6efb?style=flat-square&logo=CSS3&logoColor=white"/><img src="https://img.shields.io/badge/Git-539bf5?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-dd6efb?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-539bf5?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-dd6efb?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-539bf5?style=flat-square&logo=Git&logoColor=white"/>
+##원태쓰
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/QL-E434AA?style=flat-square&logo=GraphQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+<img src='https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white'/>
+<img src='https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white'/>
+<img src='https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white'/>
+<img src="https://img.shields.io/badge/Framer-df0eb1?style=flat-square&logo=Framer&logoColor=white"/>
+<img src='https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=Styled-Components&logoColor=white'/> 
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-FF7200?style=flat-square&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Sklearn-150458?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp;  
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp;
+##
+
+## Education & Expierence
+| **Date** | **Contents** | **Organization** |
+| ------ | :------: | :------: |
+| 🎓2020.08 ~ 2021.02 | Web development/Data Science Coding bootcamp | Seoul HOSEO Technical College |
+| 🎓2021.02 ~ 2021.12 | SKT-AI Coding bootcamp | SKTelecom & JEJU Institute for Lifelong Education and Scholarship |
 
 
 ![egeg1212 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=egeg1212&show_icons=true&bg_color=30,dd6efb,539bf5&title_color=fff&text_color=fff)

@@ -35,7 +35,7 @@ https://gist.github.com/EGEG1212/d72968098f4ab556cd756f1d30db2f5f
 
 <!-- [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://blog.naver.com/***)](https://blog.naver.com/***) -->
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-539bf5?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-dd6efb?style=flat-square&logo=CSS3&logoColor=white"/><img src="https://img.shields.io/badge/Git-539bf5?style=flat-square&logo=Git&logoColor=white"/>
 
 
 ![egeg1212 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=egeg1212&show_icons=true&bg_color=30,dd6efb,539bf5&title_color=fff&text_color=fff)
@@ -43,7 +43,8 @@ https://gist.github.com/EGEG1212/d72968098f4ab556cd756f1d30db2f5f
 
 
 
-
+#Pink - dd6efb
+#blue - 539bf5
 
 
 

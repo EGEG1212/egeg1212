@@ -28,7 +28,7 @@ https://gist.github.com/EGEG1212/d72968098f4ab556cd756f1d30db2f5f
 
 - 🌱 I'm learning to make a voice-related program that I want. 
 - 🌱I will be a farmer who plants 'GIT GRASS' hard too!🤩
-- 📫 contact me by [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eg1212j@gmail.com)](mailto:eg1212j@gmail.com)
+- 📫 contact me by [![Gmail Badge](https://img.shields.io/badge/Gmail-539bf5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eg1212j@gmail.com)](mailto:eg1212j@gmail.com)
 
 🍰Keywords of interest🍟<br>Voice recognition(음성인식) / Speech Synthesis(음성합성) / Chatbot(챗봇) / Algorithm(알고리즘) / AI(artificial intelligence) / Big Data(빅데이터) / Machine Learning(머신러닝) / FinTech(핀테크) / Block Chain(블록체인) / hash sha /encoding(암호화) / bitcoin(비트코인) / Cryptocurrency(암호화폐)
 

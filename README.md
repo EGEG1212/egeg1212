@@ -42,26 +42,8 @@ https://gist.github.com/EGEG1212/d72968098f4ab556cd756f1d30db2f5f
 ✍ Education & Expierence
 | **Date** | **Technology Stack** | **Contents** | **Organization** |
 | ------ | :------: | :------: | :------: |
-| 🎓2020.08 ~ 2021.02 | 
-<img src="https://img.shields.io/badge/HTML-539bf5?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-dd6efb?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-539bf5?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-FF7200?style=flat-square&logo=Express&logoColor=white"/>
-<img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-</a>&nbsp;<img src="https://img.shields.io/badge/Matplotlib-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Sklearn-150458?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp;  
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>&nbsp; | Training developers for big data analysis using machine learning/Python.(머신러닝/파이썬 활용 빅데이터분석 개발자 양성) | Seoul HOSEO Technical College |
-| 🎓2021.08 ~ 2021.12 | 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NUGU-dd6efb?style=flat-square"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>| SKT-AI NUGU Coding bootcamp : Training manpower for AI software development with SK Telecom (SK텔레콤과 함께하는 AI활용 소프트웨어 인력양성) | SKTelecom & JEJU Institute for Lifelong Education and Scholarship |
+| 🎓2020.08 ~ 2021.02 | <img src="https://img.shields.io/badge/HTML-539bf5?style=flat-square&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-dd6efb?style=flat-square&logo=CSS3&logoColor=white"/><img src="https://img.shields.io/badge/Git-539bf5?style=flat-square&logo=Git&logoColor=white"/><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/><img src="https://img.shields.io/badge/Express-FF7200?style=flat-square&logo=Express&logoColor=white"/><img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=NumPy&logoColor=white"/><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Matplotlib-150458?style=flat-square&logo=pandas&logoColor=white"/><img src="https://img.shields.io/badge/Sklearn-150458?style=flat-square&logo=scikit-learn&logoColor=white"/><img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) | Training developers for big data analysis using machine learning/Python.(머신러닝/파이썬 활용 빅데이터분석 개발자 양성) | Seoul HOSEO Technical College |
+| 🎓2021.08 ~ 2021.12 | <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/NUGU-dd6efb?style=flat-square"/><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) | SKT-AI NUGU Coding bootcamp : Training manpower for AI software development with SK Telecom (SK텔레콤과 함께하는 AI활용 소프트웨어 인력양성) | SKTelecom & JEJU Institute for Lifelong Education and Scholarship |
 
 
 ![egeg1212 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=egeg1212&show_icons=true&bg_color=30,dd6efb,539bf5&title_color=fff&text_color=fff)

@@ -46,7 +46,8 @@ https://gist.github.com/EGEG1212/d72968098f4ab556cd756f1d30db2f5f
 | 2021.08 ~ 2021.12 | <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/NUGU-539bf5?style=for-the-badge"/><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/>![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) | SKT-AI NUGU Coding bootcamp : Training manpower for AI software development with SK Telecom (SK텔레콤과 함께하는 AI활용 소프트웨어 인력양성) | SKTelecom & JEJU Institute for Lifelong Education and Scholarship |
 | 2021.12~2022.01 | [![JavsScriptBasic](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/EGEG1212/coursera_JavaScript_Basics) <br>  [![JavsScriptBasic](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/EGEG1212/boostcourse_JavaScript_Basics__egoing) |JavaScript Basic |[![Cousera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/) <br> boostcourse |
 | 2022.01 | [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://github.com/EGEG1212/nomadcoders_Go) | | Nomad Coders |
-<!-- |2022.02~ |  | BlockChain bootcamp | CODE STATES | -->
+| 2022.05~2022.06 | [![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)](https://github.com/EGEG1212/ICTBlockchain) | 블록체인과 비즈니스 융합과정
+ | 제주ICT이노베이션스퀘어 & <br> CODE STATES |
 
 
 
